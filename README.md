@@ -1,2 +1,2 @@
 # Bengali-Digit-Recognition
-DL Project
+Deep Learning Project
